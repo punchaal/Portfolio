@@ -39,9 +39,9 @@ function projectCards() {
                 Github</a> | <a href="https://punchaal.github.io/Quiz-app/" class="blue-bold">Demo</a></h4> 
                 <p class="padding">An app designed to test your IPL cricket knowledge. One of the earliest apps
                 I worked on with a lot of emphasis on proper usage of unique <span class="gold-bold">JS</span> functions.</p> 
-                <p class="padding blue-bold"> Tech used: <img src="media/css.png" class="tech-icon"/>
-                <img src="media/html.png" class="tech-icon"/>
-                <img src="media/javascript.png" class="tech-icon"/></p></p>
+                <p><i class="fab fa-css3-alt tech-icon"></i></i>
+                <i class="fab fa-html5 tech-icon"></i>
+                <i class="fab fa-js-square tech-icon"></i></p>
             </div>
             <div class="cardContainer">
                 <img src="media/pcf.png" alt="pcf website" class="cardImage" width="100%"/>
@@ -49,9 +49,9 @@ function projectCards() {
                 <p class="padding">The original website developed that really spurred the love for web development. 
                 The site was created using <span class="gold-bold">Bootstrap</span>, <span class="gold-bold">Django</span>
                 and extensive use of <span class="gold-bold">Github</span>.</p> 
-                <p class="padding blue-bold"> Tech used: <img src="media/css.png" class="tech-icon"/>
-                <img src="media/html.png" class="tech-icon"/>
-                <img src="media/javascript.png" class="tech-icon"/></p>
+                <p><i class="fab fa-css3-alt tech-icon"></i></i>
+                <i class="fab fa-html5 tech-icon"></i>
+                <i class="fab fa-js-square tech-icon"></i></p>
             </div>
             </div>`
 }

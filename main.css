@@ -176,9 +176,9 @@ nav{
   }
 
 .tech-icon{
-    height:20px;
-    width:20px;
-    margin-left:2px;
+    font-size:30px;
+    margin-left:10px;
+    color:#165065;
 }
   
 
