@@ -34,7 +34,7 @@ function displayContent() {
 function projectCards() {
     return `<div class="flexbox">
             <div class="cardContainer">
-                <img src="media/quiz-app-screenshot.png" alt="quiz app" class="cardImage" width="100%"/>
+                <img src="Media/quiz-app-screenshot.png" alt="quiz app" class="cardImage" width="100%"/>
                 <h4 class="text-center blue-bold">Quiz App - <a href="https://github.com/punchaal/Quiz-app"class="blue-bold">
                 Github</a> | <a href="https://punchaal.github.io/Quiz-app/" class="blue-bold">Demo</a></h4> 
                 <p class="padding">An app designed to test your IPL cricket knowledge. One of the earliest apps
@@ -44,7 +44,7 @@ function projectCards() {
                 <i class="fab fa-js-square tech-icon"></i></p>
             </div>
             <div class="cardContainer">
-                <img src="media/pcf.png" alt="pcf website" class="cardImage" width="100%"/>
+                <img src="Media/pcf.png" alt="pcf website" class="cardImage" width="100%"/>
                 <h4 class="text-center blue-bold">PCF - <a href="#" class="blue-bold">Github | Demo</a></h4> 
                 <p class="padding">The original website developed that really spurred the love for web development. 
                 The site was created using <span class="gold-bold">Bootstrap</span>, <span class="gold-bold">Django</span>
